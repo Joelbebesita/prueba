@@ -1,0 +1,57 @@
+h1 {
+    color: rgb(87, 35, 21);
+}
+body {
+    background-image: url("./image/viaje3.jpg");
+  }
+  p{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    line-height: 50px;
+  }
+  li {
+    color: rgb(168, 124, 58);
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .tem1{
+    color: rgb(78, 50, 104);
+    font-size: 60px;
+    line-height: 70px;
+  }
+ .uld{
+    font-size: 50px;
+    line-height: 60px;
+ }
+ .lol{
+    font-size: 40px;
+    line-height: 50px;
+ }
+ header{
+    background-color: rgb(158, 198, 186);
+    color: antiquewhite;
+    padding: 20px;
+    text-align: center;
+ }
+ .lel{
+    color: rgb(135, 95, 45);
+ }
+ .lilo{
+    color: rgb(52, 52, 167);
+    font-size: 40px;
+    line-height: 50px;
+ }
+ .ltt{
+    color: rgb(99, 34, 34);
+    font-size: 50px;
+    line-height: 60px;
+ }
+ .rer{
+    font-size: 40px;
+    line-height: 50px;
+ }
+ .rerre{
+    font-size: 40px;
+    line-height: 50px;
+    color: blueviolet;
+ }
